@@ -10,6 +10,7 @@ namespace Diccionario
     {
         public static void Main(string[] args)
         {
+            //Se crea una tupla donde se maneja el diccionario de las palabras
             List<Tuple<string, string>> diccionario = crearDiccionario();
             traducir(diccionario);
             Console.ReadKey();

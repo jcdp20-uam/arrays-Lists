@@ -1,6 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Collections.Generic; 
 
+// Se crea la clase Producto que maneja el codigo, nombre, cantidad y precio
 class Producto
 {
     public int Codigo { get; set; }
@@ -22,10 +23,13 @@ class Producto
     }
 }
 
+//clase inventario donde se manejan los productos que se ingresan
 class Inventario
 {
+    //se crea la lista donde se van a guardar los prodcutos
     private List<Producto> productos = new List<Producto>();
 
+    //metodo para agregar producto
     public void AgregarProducto()
     {
         Console.Write("Ingrese código del producto: ");

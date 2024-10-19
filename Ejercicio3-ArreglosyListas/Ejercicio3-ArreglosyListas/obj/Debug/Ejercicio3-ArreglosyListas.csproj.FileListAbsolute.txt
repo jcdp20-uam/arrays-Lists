@@ -1,0 +1,7 @@
+D:\JULITO\ArreglosyListas\Ejercicio3-ArreglosyListas\Ejercicio3-ArreglosyListas\bin\Debug\Ejercicio3-ArreglosyListas.exe.config
+D:\JULITO\ArreglosyListas\Ejercicio3-ArreglosyListas\Ejercicio3-ArreglosyListas\bin\Debug\Ejercicio3-ArreglosyListas.exe
+D:\JULITO\ArreglosyListas\Ejercicio3-ArreglosyListas\Ejercicio3-ArreglosyListas\bin\Debug\Ejercicio3-ArreglosyListas.pdb
+D:\JULITO\ArreglosyListas\Ejercicio3-ArreglosyListas\Ejercicio3-ArreglosyListas\obj\Debug\Ejercicio3-ArreglosyListas.csproj.AssemblyReference.cache
+D:\JULITO\ArreglosyListas\Ejercicio3-ArreglosyListas\Ejercicio3-ArreglosyListas\obj\Debug\Ejercicio3-ArreglosyListas.csproj.CoreCompileInputs.cache
+D:\JULITO\ArreglosyListas\Ejercicio3-ArreglosyListas\Ejercicio3-ArreglosyListas\obj\Debug\Ejercicio3-ArreglosyListas.exe
+D:\JULITO\ArreglosyListas\Ejercicio3-ArreglosyListas\Ejercicio3-ArreglosyListas\obj\Debug\Ejercicio3-ArreglosyListas.pdb

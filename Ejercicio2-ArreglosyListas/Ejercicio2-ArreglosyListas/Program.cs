@@ -1,5 +1,7 @@
 ﻿using System;
 
+
+//se crea la clase CuentaBancaria, donde se maneja el saldo, la cuenta bancaria, y los metodos para depositar, retirar y consultar
 class CuentaBancaria
 {
     private decimal saldo;
@@ -9,11 +11,13 @@ class CuentaBancaria
         saldo = saldoInicial;
     }
 
+    //Metodo para consultar el saldo de la cuenta
     public void ConsultarSaldo()
     {
         Console.WriteLine($"El saldo actual es: {saldo}");
     }
 
+    //Metodo para depositar dinero a la cuenta
     public void DepositarDinero()
     {
         decimal monto = LeerDecimalPositivo("Ingrese la cantidad a depositar: ");
@@ -21,6 +25,7 @@ class CuentaBancaria
         Console.WriteLine($"Has depositado {monto}. El nuevo saldo es {saldo}.");
     }
 
+    //Metodo para retirar dinero a la cuenta
     public void RetirarDinero()
     {
         decimal monto = LeerDecimalPositivo("Ingrese la cantidad a retirar: ");
@@ -50,6 +55,7 @@ class CuentaBancaria
     }
 }
 
+//Clase main del programa 
 class Program
 {
     static void Main(string[] args)
